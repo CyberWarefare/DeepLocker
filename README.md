@@ -9,6 +9,7 @@ https://securityintelligence.com/deeplocker-how-ai-can-power-a-stealthy-new-bree
 
 AI Malware                                                                                                                      
 https://www.welivesecurity.com/wp-content/uploads/2018/08/Can_AI_Power_Future_Malware.pdf
+https://www.zdnet.com/article/this-is-how-artificial-intelligence-will-become-weaponized-in-future-cyberattacks/
 
 
 DeepLocker: When malware turns artificial intelligence into a weapon                                                           
