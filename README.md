@@ -7,7 +7,7 @@ https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targ
 https://www.linkedin.com/pulse/deep-locker-ai-malware-ajay-upadhyay/                                                             
 https://securityintelligence.com/deeplocker-how-ai-can-power-a-stealthy-new-breed-of-malware/       
 
-AI Malware
+AI Malware                                                                                                                      
 https://www.welivesecurity.com/wp-content/uploads/2018/08/Can_AI_Power_Future_Malware.pdf
 
 
