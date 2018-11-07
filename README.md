@@ -13,6 +13,7 @@ https://www.welivesecurity.com/wp-content/uploads/2018/08/Can_AI_Power_Future_Ma
 https://www.zdnet.com/article/this-is-how-artificial-intelligence-will-become-weaponized-in-future-cyberattacks/
 https://www.darktrace.com/en/resources/wp-ai-driven-cyber-attacks.pdf
 https://www.theregister.co.uk/2018/03/14/researchers_create_ai_attacker_to_defeat_ai_malware_defender/
+https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection.pdf
 
 
 DeepLocker: When malware turns artificial intelligence into a weapon                                                           
